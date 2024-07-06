@@ -1,1 +1,2 @@
-project for ProfSoft`s scholl homework
+Арсений Сергеев, profsoft academy
+project for ProfSoft`s school homework
