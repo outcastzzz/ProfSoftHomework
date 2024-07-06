@@ -1,17 +1,17 @@
 package com.example.profsofthomework
 
-import android.content.Intent
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.profsofthomework.databinding.ActivityMainBinding
+import com.example.profsofthomework.databinding.ActivityNotificationBinding
 
-class MainActivity : AppCompatActivity() {
+class NotificationActivity : AppCompatActivity() {
 
     private val binding by lazy {
-        ActivityMainBinding.inflate(layoutInflater)
+        ActivityNotificationBinding.inflate(layoutInflater)
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,15 +23,19 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        setupNavigation()
+        val toastString = intent.getStringExtra(BuildConfig.INTENT_KEY) ?: "Error, smth went wrong"
+        binding.btnShowToast.setOnClickListener {
+            setupShowToast(toastString)
+        }
+
     }
 
-    private fun setupNavigation() {
-        binding.btnNavigateToSecondActivity.setOnClickListener {
-            val intent = Intent(this, NotificationActivity::class.java)
-            intent.putExtra(BuildConfig.INTENT_KEY, binding.tvMain.text.toString())
-            startActivity(intent)
-        }
+    private fun setupShowToast(toastText: String) {
+        Toast.makeText(
+            this,
+            toastText,
+            Toast.LENGTH_SHORT
+        ).show()
     }
 
 }

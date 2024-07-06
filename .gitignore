@@ -8,7 +8,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-gradle.properties
 .navigation
 gradlew
 gradlew.bat

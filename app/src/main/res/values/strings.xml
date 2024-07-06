@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProfSoftHomework</string>
+    <string name="navigate_to_second_activity">Активити 2</string>
+    <string name="vector_img_description">vector_image</string>
+    <string name="png_image_description">png_image</string>
+    <string name="string_get_notification">Уведомление</string>
 </resources>

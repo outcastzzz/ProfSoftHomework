@@ -15,6 +15,12 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        val intentKey = property("intentKey")?.toString() ?: error(
+            "Add your own intent key into gradle .properties"
+        )
+        buildConfigField("String", "INTENT_KEY", "\"intentKey\"")
+
     }
 
     buildTypes {
@@ -32,6 +38,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = "1.8"
+    }
+    buildFeatures {
+        viewBinding = true
+        buildConfig = true
     }
 }
 
