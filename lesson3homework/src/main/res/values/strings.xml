@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lesson3Homework</string>
+    <string name="content_description_navigate_back">navigate back</string>
+    <string name="header_tv">Профиль</string>
+    <string name="profile_name">Арсений</string>
+    <string name="profile_surname">Сергеев</string>
+    <string name="profile_middle_name">Александрович</string>
+    <string name="title_city">Город</string>
+    <string name="title_city_value">Саратов</string>
+    <string name="title_about">О себе</string>
+    <string name="title_about_value">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="edit_profile">Редактировать профиль</string>
+</resources>

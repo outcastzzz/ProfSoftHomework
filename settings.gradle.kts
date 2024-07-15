@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ProfSoftHomework"
-include(":app")
- 
+include(":lesson2Homework")
+include(":lesson3homework")
