@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lesson6</string>
+    <string name="profile">Профиль</string>
+    <string name="temperature">%1$s °C</string>
+    <string name="feels_like_and_description">Feels like %1$s, %2$s</string>
+    <string name="temp_min_and_max">min: %1$s°C, max: %2$s°C</string>
+    <string name="pressure">pressure: %1$s hPa</string>
+    <string name="humidity">humidity: %1$s</string>
+    <string name="visibility">visibility: %1$s km</string>
+    <string name="wind_speed_m_s">wind speed: %1$s m/s</string>
+    <string name="gust_m_s">gust: %1$s m/s</string>
+    <string name="direction">direction: %1$s</string>
+    <string name="error_text">Ошибка!</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NotificationActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/img_vector_image"
+            android:layout_width="260dp"
+            android:layout_height="112dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="50dp"
+            android:contentDescription="@string/vector_img_description"
+            app:srcCompat="@drawable/ic_cornered_vector" />
+
+        <ImageView
+            android:id="@+id/img_png_image"
+            android:layout_width="260dp"
+            android:layout_height="242dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="50dp"
+            android:contentDescription="@string/png_image_description"
+            app:srcCompat="@drawable/image_activity_notification" />
+
+        <android.widget.Button
+            android:id="@+id/btn_show_toast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/button"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/bg_app_buttons"
+            android:text="@string/string_get_notification"
+            android:textSize="20sp"
+            android:textStyle="normal|bold" />
+    </LinearLayout>
+
+</FrameLayout>
