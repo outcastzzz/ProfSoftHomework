@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color black
+color white
+drawable bg_app_buttons
+drawable ic_cornered_vector
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable image_activity_notification
+font roboto
+font roboto_medium
+id btn_navigate_to_second_activity
+id btn_show_toast
+id img_png_image
+id img_vector_image
+id main
+id tv_main
+layout activity_main
+layout activity_notification
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string navigate_to_second_activity
+string png_image_description
+string string_get_notification
+string vector_img_description
+style Base.Theme.ForDelete2
+style Base.Theme.ProfSoftHomework
+style Theme.ProfSoftHomework
+style button
+style text
+xml backup_rules
+xml data_extraction_rules
