@@ -31,98 +31,45 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c7c8c5-d17a-4cec-825b-4e2e3a1b1784" name="Changes" comment="lesson 3 homework">
-      <change afterPath="$PROJECT_DIR$/lesson2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/androidTest/java/com/example/profsofthomework/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/androidTest/java/com/example/fordelete2/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/java/com/example/profsofthomework/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/java/com/example/fordelete2/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/java/com/example/profsofthomework/NotificationActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/java/com/example/fordelete2/NotificationActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/drawable/bg_app_buttons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/bg_app_buttons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/drawable/ic_cornered_vector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/ic_cornered_vector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/drawable/image_activity_notification.png" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/image_activity_notification.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/font/roboto.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/font/roboto.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/font/roboto_medium.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/font/roboto_medium.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/layout/activity_notification.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/layout/activity_notification.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values/font_certs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values/font_certs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2Homework/src/test/java/com/example/profsofthomework/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/test/java/com/example/fordelete2/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/androidTest/java/com/example/lesson3homework/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/androidTest/java/com/example/lesson3homework/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/java/com/example/lesson3homework/Lesson3Activity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/java/com/example/lesson3homework/Lesson3Activity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/button_edit_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/button_edit_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/ic_back.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/ic_line_divider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/ic_line_divider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/img_profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/img_profile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/profile_info_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/profile_info_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/font/roboto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/font/roboto.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/layout/activity_lesson3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/layout/activity_lesson3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/values/font_certs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/values/font_certs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3homework/src/test/java/com/example/lesson3homework/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/app/src/test/java/com/example/lesson3homework/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/settings.gradle.kts" afterDir="false" />
+    <list default="true" id="25c7c8c5-d17a-4cec-825b-4e2e3a1b1784" name="Changes" comment="lesson 6 homework">
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/bg_app_buttons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/ic_cornered_vector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/font/roboto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/font/roboto_medium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/layout/activity_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/drawable/img_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/drawable/img_profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/drawable/image_activity_notification.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3homework/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -422,13 +369,33 @@
       <option name="project" value="LOCAL" />
       <updated>1721055553241</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson 6 homework">
+      <option name="closed" value="true" />
+      <created>1721603342251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721603342251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="first homework commit" />
     <MESSAGE value="lesson 3 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 homework" />
+    <MESSAGE value="lesson 6 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 6 homework" />
   </component>
 </project>
