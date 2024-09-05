@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">togetherApp</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_in_to_continue">Пожалуйста, войдите для продолжения</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="password">Пароль</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="please_input_new_data_for_new_account">Пожалуйста, введите данные для новой учетной записи</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="sign_in_with_account">Войти с учетной записью</string>
+    <string name="something_was_going_wrong">Упс, что-то пошло не так</string>
+    <string name="try_again">Попробуй снова</string>
+    <string name="main">Главная</string>
+    <string name="your_courses">Ваши курсы</string>
+    <string name="all">Все</string>
+    <string name="oops">Ой-ой...</string>
+    <string name="something_goes_wrong">Что-то пошло не по плану</string>
+    <string name="retry">Повторить</string>
+    <string name="your_notes">Ваши заметки</string>
+    <string name="community_notes">Заметки сообщества</string>
+    <string name="profile">Профиль</string>
+    <string name="show_my_number">Показывать всем мой номер</string>
+    <string name="you_havent_added_any_notes_yet">Вы пока не добавили ни одной заметки</string>
+    <string name="you_havent_added_any_courses_yet">Вы пока не добавили ни одного курса</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="register_date">Дата регистрации: %1$s</string>
+    <string name="user_role">Роль: %1$s</string>
+    <string name="user_phone">Номер телефона: %1$s</string>
+    <string name="all_courses">Все курсы</string>
+    <string name="full_name">%1$s %2$s</string>
+    <string name="chat">Чат</string>
+    <string name="message">Сообщение</string>
+    <string name="search">Поиск</string>
+
+</resources>
